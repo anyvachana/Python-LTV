@@ -1,6 +1,4 @@
-# Python_rock
-
-Задание:
+# Задание
 
 To complete the task you need to calculate the LTV of cohorts of users for all available days, submit the notebook with calculations and a final csv file. Please, provide comments for your code and make sure it is reproducible.
 Cohort means all players who installed the game on the same day. Cohort numeration in this task starts with 3001 (for players who installed on January 1st 2017)
